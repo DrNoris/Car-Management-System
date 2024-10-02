@@ -10,7 +10,6 @@ This project is a semester-long Object-Oriented Programming (OOP) class assignme
 - **Data Storage**: Cars can be stored in memory or saved to a file, allowing for flexible data management, based on what kind of repository is instantiated in main.
 - **OOP Principles**: Incorporates all four pillars of Object-Oriented Programming (encapsulation, inheritance, polymorphism, and abstraction) throughout the codebase.
 - **Statistics Visualization**: Capable of drawing shapes to represent statistical data related to the cars managed by the system.
-- **Car Wash List Generation**: Generates a list of cars that need washing, which can be exported to your desktop in HTML format, complete with CSS styling for an enhanced appearance.
 - **Layered Architecture**: Follows a layered architecture approach, separating concerns between the user interface, business logic, and data access layers for better maintainability and scalability.
 - **Main Functional Features**:
   - **Undo**: Revert recent changes made to the car data.
@@ -19,7 +18,7 @@ This project is a semester-long Object-Oriented Programming (OOP) class assignme
   - **Sort**: Organize cars based on various attributes like model, year, or plate number.
   - **Filter**: Filter the displayed list of cars based on specific criteria.
   - **Find**: Quickly search for a car using its attributes.
-- **Bucket Features**:
+- **Car Wash List Generator/Bucket Features**:
   - **Add**: Can add an existing car to a bucket.
   - **Random Generate**: Generates a bucket with a given number of random existing cars.
   - **Empty**: Erase all the data from the bucket.
