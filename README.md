@@ -22,7 +22,7 @@ This project is a semester-long Object-Oriented Programming (OOP) class assignme
   - **Add**: Can add an existing car to a bucket.
   - **Random Generate**: Generates a bucket with a given number of random existing cars.
   - **Empty**: Erase all the data from the bucket.
-  - **Export**: Exports the car from the bucket to a HTML file directly on user's desktop. The file opens in the web-browser and it comes with CSS.
+  - **Export**: Exports the cars from the bucket to a HTML file directly on the user's desktop. The file opens in the web-browser and it comes with CSS.
 ## Technologies Used
 - C++
 - Qt Framework
